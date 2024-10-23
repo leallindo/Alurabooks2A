@@ -38,5 +38,6 @@
     background: var(--azul-dregade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: uppercase;
+    background-clip: text;
+    text-transform: uppercase;
 }
